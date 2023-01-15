@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Deployed using GitOps version1.4-ravina borkar is my name'
+    return 'Deployed using GitOps version1.4- must resflect '
